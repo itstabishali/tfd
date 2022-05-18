@@ -324,7 +324,7 @@ header {
      margin-left: 30%;
      justify-content: center;
      align-items: center;
-     transition: 0.3s;
+     transition: all 0.3s ease-out;
      z-index: 999;
 }
 
