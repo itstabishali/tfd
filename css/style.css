@@ -818,6 +818,10 @@ header .container-fluid {
      font-weight: 400;
 }
 
+.Client .Client_box img {
+     border-radius: 50%;
+}
+
 .Client .Client_box i {
      padding-top: 20px;
      display: inline-block;
