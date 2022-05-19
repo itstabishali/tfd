@@ -325,7 +325,7 @@ header {
      justify-content: center;
      align-items: center;
      border-radius: 0 0 0 75%;
-     transition: 0.5s !important;
+     transition: 1s !important;
      z-index: 999;
 }
 
