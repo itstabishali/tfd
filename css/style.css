@@ -316,21 +316,21 @@ header {
 
 .slmenu{
      background-color: black;
-     display: none;
+     display: flex;
      position: fixed;
      flex-direction: column;
      width: 70vw;
      height: 100vh;
-     margin-left: 30%;
+     margin-left: 100%;
      justify-content: center;
      align-items: center;
-     border-radius: 0 0 0 75%;
-     transition: 1s !important;
+     border-radius: 75% 0 75% 0;
+     transition: margin-left 1s;
      z-index: 999;
 }
 
 .show-menu{
-     display: flex;
+     margin-left: 30%;
 }
 
 .slmenu i{
@@ -410,7 +410,6 @@ header .container-fluid {
      background: none;
      font-size: 25px;
      display: block;
-     transition: 0.3s;
 }
 
 .right-slide button:hover{
