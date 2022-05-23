@@ -389,10 +389,14 @@ header .container-fluid {
 }
 
 .right_header_info ul li a {
-     color: #222;
+     color: rgb(160, 129, 129);
      font-family: 'PT Serif', serif;
      font-size: 15px;
      font-weight: 300;
+}
+
+.right_header_info ul li a:hover {
+     color: #ddc9c9;
 }
 
 .right-slide{
