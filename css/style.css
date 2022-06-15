@@ -305,7 +305,7 @@ a.readmore_bt {
 /*--------------------------------------------------------------------- header ---------------------------------------------------------------------*/
 header {
      min-height: 90px;
-     background: linear-gradient(120deg, #000, rgb(177, 47, 54), rgb(180, 52, 20), #000);
+     background: linear-gradient(120deg, #ff9a9e, #fecfef);
      position: fixed;
      width: 100%;
      top: 0;
